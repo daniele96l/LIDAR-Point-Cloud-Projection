@@ -27,4 +27,4 @@ Author
 
 Notes
 - Some scripts reference absolute paths or large LAS files — paths need adapting to run locally.
-- Parts II & III (CNN detection/classification) are not included here; I can add links or a short appendix if desired.
+- Parts II & III (CNN detection/classification) are not included here
